@@ -1,36 +1,38 @@
 # 👋 Hi, I'm Hasnain Amir
 
-Computer Science student building full-stack applications, backend systems, and embedded projects.
+Full-stack developer · Backend-focused · Embedded systems  
+
+Computer Science student focused on building full-stack applications, backend systems, and embedded projects.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 💼 CV Management System
-Full-stack web application with authentication, live search, and MySQL database.
+Full-stack web application with authentication, live search, and a MySQL-backed data model.
 
-- Frontend: [View Repository](https://github.com/hasnain-amir/cv-management-frontend)  
-- Backend: [View Repository](https://github.com/hasnain-amir/cv-management-backend)  
+- Frontend → [View Repository](https://github.com/hasnain-amir/cv-management-frontend)  
+- Backend → [View Repository](https://github.com/hasnain-amir/cv-management-backend)  
 
 ---
 
 ### 🧠 Project Management Database (MySQL, 3NF)
 Relational database modelling a project management system with normalised schema and query-driven staff assignment.
 
-- Repository: [View Project](https://github.com/hasnain-amir/project-management-database)  
+- Repository → [View Project](https://github.com/hasnain-amir/project-management-database)  
 
 ---
 
 ### 🔌 Arduino Embedded Systems
 Embedded systems project using sensors, state machines, and real-time control.
 
-- Repository: [View Project](https://github.com/hasnain-amir/arduino-embedded-systems)  
+- Repository → [View Project](https://github.com/hasnain-amir/arduino-embedded-systems)  
 
 ---
 
 ## 🌐 Portfolio
 
-- Website: [View Portfolio](https://hasnain-amir.github.io)  
+- Website → [View Portfolio](https://hasnain-amir.github.io)  
 
 ---
 
@@ -54,4 +56,3 @@ Embedded systems project using sensors, state machines, and real-time control.
 ## 📫 Contact
 
 - Email: hasnain-amir@outlook.com  
-- GitHub: [hasnain-amir](https://github.com/hasnain-amir)  
