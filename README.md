@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Hasnain Amir
 
-<!--
-**hasnain-amir/hasnain-amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student building full-stack applications, backend systems, and embedded projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 💼 CV Management System
+Full-stack web application with authentication, live search, and MySQL database.
+
+- Frontend: [View Repository](https://github.com/hasnain-amir/cv-management-frontend)  
+- Backend: [View Repository](https://github.com/hasnain-amir/cv-management-backend)  
+
+---
+
+### 🧠 Project Management Database (MySQL, 3NF)
+Relational database modelling a project management system with normalised schema and query-driven staff assignment.
+
+- Repository: [View Project](https://github.com/hasnain-amir/project-management-database)  
+
+---
+
+### 🔌 Arduino Embedded Systems
+Embedded systems project using sensors, state machines, and real-time control.
+
+- Repository: [View Project](https://github.com/hasnain-amir/arduino-embedded-systems)  
+
+---
+
+## 🌐 Portfolio
+
+- Website: [View Portfolio](https://hasnain-amir.github.io)  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Node.js, Express  
+- **Database:** MySQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Other:** Arduino, Embedded Systems  
+
+---
+
+## 📈 What I'm Focused On
+
+- Building full-stack applications  
+- Improving backend architecture and security  
+- Expanding into scalable systems and APIs  
+
+---
+
+## 📫 Contact
+
+- Email: hasnain-amir@outlook.com  
+- GitHub: [hasnain-amir](https://github.com/hasnain-amir)  
