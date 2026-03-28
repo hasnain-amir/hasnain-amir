@@ -24,7 +24,7 @@ Relational database modelling a project management system with normalised schema
 ---
 
 ### 🔌 Arduino Embedded Systems
-Embedded systems project using sensors, state machines, and real-time control.
+Embedded systems project using sensor input, state machines, and real-time control.
 
 - Repository → [View Project](https://github.com/hasnain-amir/arduino-embedded-systems)  
 
