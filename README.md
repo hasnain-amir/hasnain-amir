@@ -10,6 +10,7 @@ Computer Science student focused on building full-stack applications, backend sy
 
 ### 💼 CV Management System
 Full-stack web application with authentication, live search, and a MySQL-backed data model.
+Supports user authentication and dynamic CV search across stored profiles
 
 - Frontend → [View Repository](https://github.com/hasnain-amir/cv-management-frontend)  
 - Backend → [View Repository](https://github.com/hasnain-amir/cv-management-backend)  
@@ -32,7 +33,7 @@ Embedded systems project using sensor input, state machines, and real-time contr
 
 ## 🌐 Portfolio
 
-- Website → [View Portfolio](https://hasnain-amir.github.io)  
+- Portfolio → [View Website](https://hasnain-amir.github.io)
 
 ---
 
