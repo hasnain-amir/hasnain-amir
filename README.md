@@ -56,4 +56,4 @@ Embedded systems project using sensor input, state machines, and real-time contr
 
 ## 📫 Contact
 
-- Email: hasnain-amir@outlook.com  
+- Email: hello@hasnainamir.com
