@@ -33,7 +33,7 @@ Embedded systems project using sensor input, state machines, and real-time contr
 
 ## 🌐 Portfolio
 
-- Portfolio → [View Website](https://hasnain-amir.github.io)
+- Portfolio → [View Website](https://hasnain-amir.com)
 
 ---
 
