@@ -1,222 +1,94 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3" width="100%" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0E0B16&height=150&text=HASNAIN%20AMIR&fontColor=FFFFFF&fontSize=50&fontAlign=50&fontAlignY=42&desc=Computer%20Science%20%C2%B7%20Aston%20University%20%C2%B7%20Backend-focused%20full-stack&descSize=15&descAlign=50&descAlignY=72">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=F4F1EA&height=150&text=HASNAIN%20AMIR&fontColor=0E0B16&fontSize=50&fontAlign=50&fontAlignY=42&desc=Computer%20Science%20%C2%B7%20Aston%20University%20%C2%B7%20Backend-focused%20full-stack&descSize=15&descAlign=50&descAlignY=72" width="100%" alt="Hasnain Amir. Computer Science, Aston University. Backend-focused full-stack." />
+  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3" width="100%" alt="" />
+</p>
 
-# Hasnain Amir
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=600&height=45&lines=Reliable+software%2C+tested+and+reproducible;Backends%2C+databases+and+CI;Open+to+internships+%26+placements" alt="Reliable software, tested and reproducible. Backends, databases and CI. Open to internships and placements." />
+</p>
 
-**Computer Science Student · Software Development · Systems & Security**
+<p align="center">
+  <a href="https://hasnainamir.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF">
+      <img src="https://img.shields.io/badge/Portfolio-0E0B16?style=for-the-badge&logo=googlechrome&logoColor=A855F7" alt="Portfolio" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/hasnain-amir/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge">
+      <img src="https://img.shields.io/badge/LinkedIn-0E0B16?style=for-the-badge" alt="LinkedIn" />
+    </picture>
+  </a>
+  <a href="mailto:hello@hasnainamir.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+      <img src="https://img.shields.io/badge/Email-0E0B16?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email hello@hasnainamir.com" />
+    </picture>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=560&height=50&lines=Building+reliable+software;Exploring+systems+and+security;Learning+by+building+real+projects;Currently+building+TorqYard" alt="Animated typing introduction" />
+Second-year Computer Science student building web backends and the tooling around them: databases, CI, testing and secure defaults. I care about software that is reproducible and hard to break, not just software that runs once.
 
-<br>
+**Available for:** Summer 2027 internship · Placement year 2027–28
 
-<a href="https://hasnainamir.com">
-  <img src="https://img.shields.io/badge/Portfolio-0D0D12?style=for-the-badge&logo=googlechrome&logoColor=A855F7" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:hello@hasnainamir.com">
-  <img src="https://img.shields.io/badge/Email-0D0D12?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/hasnain-amir">
-  <img src="https://img.shields.io/badge/GitHub-0D0D12?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%" alt="" />
 
-<br><br>
-
-<sub>UNITED KINGDOM · OPEN TO INTERNSHIPS & PLACEMENTS</sub>
-
-</div>
-
----
-
-## About Me
-
-```text
-hasnain@dev:~$ whoami
-
-  Role       Computer Science Student
-  Focus      Full-Stack & Backend Engineering
-  Interests  Systems, Architecture & Cybersecurity
-  Learning   Scalable Services, Security & Performance
-  Building   TorqYard
-  Location   United Kingdom
-
-hasnain@dev:~$ _
-```
-
-I'm a Computer Science student who enjoys understanding how software works, from the interfaces people interact with to the backend systems and infrastructure supporting them.
-
-My interests span **full-stack development, backend engineering, systems programming, software architecture and cybersecurity**. I'm particularly interested in building reliable software, exploring the fundamentals behind modern technologies and improving through practical engineering challenges.
-
-I enjoy working on projects that push me beyond simply using frameworks and libraries, helping me better understand the systems underneath.
-
-I'm currently open to **software engineering internships, industrial placements, collaborative projects and opportunities to gain practical experience**.
-
----
-
-## Currently Building
-
-<div align="center">
+## Currently building
 
 <a href="https://github.com/hasnain-amir/torqyard">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasnain-amir/torqyard/main/assets/branding/wordmark-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasnain-amir/torqyard/main/assets/branding/wordmark-light.png" />
-    <img src="https://raw.githubusercontent.com/hasnain-amir/torqyard/main/assets/branding/wordmark-light.png" alt="TorqYard automotive community logo" width="370" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasnain-amir/torqyard/main/assets/branding/wordmark-dark.png">
+    <img src="https://raw.githubusercontent.com/hasnain-amir/torqyard/main/assets/branding/wordmark-light.png" alt="TorqYard" height="60" />
   </picture>
 </a>
 
-### TorqYard
+**[TorqYard](https://github.com/hasnain-amir/torqyard)** is an automotive community platform for UK car and motorcycle enthusiasts, built on NodeBB and PostgreSQL.
 
-**A modern automotive community platform for UK car and motorcycle enthusiasts.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/In_Development-A855F7?style=flat-square">
+  <img src="https://img.shields.io/badge/In_Development-0E0B16?style=flat-square" alt="In development" />
+</picture>
 
-<a href="https://github.com/hasnain-amir/torqyard">
-  <img src="https://img.shields.io/badge/Explore_Repository-0D0D12?style=for-the-badge&logo=github&logoColor=A855F7" alt="Explore TorqYard Repository" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/In_Development-F59E0B?style=for-the-badge&logoColor=black" alt="In Development" />
+**Done**
+- Reproducible NodeBB development environment
+- PostgreSQL and Docker infrastructure
+- Automated repository validation and GitHub Actions quality checks
+- Git history secret scanning with Gitleaks
+- Isolated PostgreSQL integration tests with failure detection and automatic cleanup
+- Provisional branding assets
 
-<br><br>
+**Planned**
+- NodeBB-specific integration testing
+- Carbon Amber design system and custom theme
+- Vehicle garages and build journals
 
-<sub>NODEBB · POSTGRESQL · DOCKER · GITHUB ACTIONS</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%" alt="" />
 
-</div>
+## Selected projects
 
-TorqYard is an ongoing project to build an automotive community where enthusiasts can participate in discussions, showcase their vehicles, document builds and connect through clubs, meets and events.
+**[CV Management System](https://github.com/hasnain-amir/cv-management-backend)** · Node.js, Express, MySQL
+Full-stack app for managing and searching CV profiles, with user authentication and live search. [Frontend repo](https://github.com/hasnain-amir/cv-management-frontend).
 
-The platform is based on **NodeBB and PostgreSQL**, with custom community functionality and a dedicated Carbon Amber design system planned.
+**[Project Management Database](https://github.com/hasnain-amir/project-management-database)** · MySQL
+Relational model for project workflows and staff assignments, normalised to 3NF, with query-driven staff assignment.
 
-### Engineering Progress
+**[Arduino Embedded Systems](https://github.com/hasnain-amir/arduino-embedded-systems)** · C/C++, Arduino
+Sensor input, state-machine design and real-time hardware control.
 
-- [x] Reproducible NodeBB development environment.
-- [x] PostgreSQL and Docker infrastructure.
-- [x] Automated repository validation and GitHub Actions quality checks.
-- [x] Git history secret scanning using Gitleaks.
-- [x] Isolated PostgreSQL integration tests with failure detection and automatic cleanup.
-- [x] Initial provisional branding assets.
-- [ ] NodeBB-specific automated integration testing.
-- [ ] Carbon Amber design system and custom theme.
-- [ ] Vehicle garages, build journals and automotive community features.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%" alt="" />
 
-<div align="center">
+## Stack
 
-**Core Technologies**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,c,cpp,html,css,nodejs,express,nextjs,postgres,mysql,docker,githubactions,git,arduino&theme=light&perline=8">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,html,css,nodejs,express,nextjs,postgres,mysql,docker,githubactions,git,arduino&theme=dark&perline=8" alt="JavaScript, TypeScript, Python, C, C++, HTML, CSS, Node.js, Express, Next.js, PostgreSQL, MySQL, Docker, GitHub Actions, Git, Arduino" />
+</picture>
 
-<br>
+Also: SQL, NodeBB, Gitleaks, ShellCheck.
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,githubactions&theme=dark" alt="Node.js, PostgreSQL, Docker and GitHub Actions" />
-
-<br><br>
-
-<sub>Active development · Branding and functionality remain subject to refinement before public beta.</sub>
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages & Frontend
-
-<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp&theme=dark" alt="JavaScript, HTML, CSS, C and C++" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" alt="Node.js, Express, PostgreSQL and MySQL" />
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,arduino&theme=dark" alt="Git, GitHub, Docker, VS Code and Arduino" />
-
-<br>
-
-I also work with **NodeBB, GitHub Actions, ShellCheck, Gitleaks, SQL and integration testing**.
-
-</div>
-
----
-
-## Selected Projects
-
-### CV Management System
-
-Full-stack web application for managing and searching CV profiles, featuring user authentication, live search and a MySQL-backed data model.
-
-**Stack:** Node.js · Express · MySQL · JavaScript
-
-<a href="https://github.com/hasnain-amir/cv-management-frontend">
-  <img src="https://img.shields.io/badge/Frontend-0D0D12?style=flat-square&logo=github&logoColor=A855F7" alt="Frontend Repository" />
-</a>
-<a href="https://github.com/hasnain-amir/cv-management-backend">
-  <img src="https://img.shields.io/badge/Backend-0D0D12?style=flat-square&logo=github&logoColor=A855F7" alt="Backend Repository" />
-</a>
-
-### Project Management Database
-
-A relational database modelling project management workflows, staff assignments and structured data relationships using third normal form (3NF).
-
-**Stack:** MySQL · SQL · Relational Database Design
-
-<a href="https://github.com/hasnain-amir/project-management-database">
-  <img src="https://img.shields.io/badge/View_Project-0D0D12?style=flat-square&logo=github&logoColor=A855F7" alt="Project Management Database Repository" />
-</a>
-
-### Arduino Embedded Systems
-
-An embedded systems project exploring sensor input, state machines and real-time hardware control.
-
-**Stack:** Arduino · C/C++ · Embedded Systems
-
-<a href="https://github.com/hasnain-amir/arduino-embedded-systems">
-  <img src="https://img.shields.io/badge/View_Project-0D0D12?style=flat-square&logo=github&logoColor=A855F7" alt="Arduino Embedded Systems Repository" />
-</a>
-
----
-
-## What I'm Exploring
-
-My interests extend beyond individual programming languages or frameworks. I'm interested in understanding how software is designed, secured and optimised.
-
-```text
-$ cat interests.txt
-
-  [01] Backend engineering and API design
-  [02] Data structures, algorithms and systems programming
-  [03] Application security and defensive cybersecurity
-  [04] Database internals and performance optimisation
-  [05] Distributed systems and real-time applications
-  [06] Software architecture, testing and reliability
-```
-
-I'm continuously exploring these areas through independent learning and practical projects.
-
----
-
-## Opportunities & Contact
-
-<div align="center">
-
-### Open to Opportunities
-
-I'm currently looking for opportunities to apply my skills, learn from experienced engineers and contribute to meaningful software projects.
-
-**Internships · Industrial Placements · Collaborative Projects · Software Engineering Opportunities**
-
-Whether it's a placement, an interesting project or a conversation about software engineering, feel free to reach out.
-
-<br>
-
-<a href="mailto:hello@hasnainamir.com">
-  <img src="https://img.shields.io/badge/Get_in_Touch-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in Touch" />
-</a>
-&nbsp;
-<a href="https://hasnainamir.com">
-  <img src="https://img.shields.io/badge/View_Portfolio-0D0D12?style=for-the-badge&logo=googlechrome&logoColor=A855F7" alt="View Portfolio" />
-</a>
-
-<br><br>
-
-<sub>hello@hasnainamir.com · United Kingdom</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3" width="100%" alt="" />
